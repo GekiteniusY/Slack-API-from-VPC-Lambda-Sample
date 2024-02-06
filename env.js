@@ -1,0 +1,2 @@
+const SLACK_TOKEN = "xoxb-5973670773717-6003903718064-s2ukd1EDTfVR5FgVrq0nVwjJ";
+const SLACK_CHANNEL = "slackapiのハンズオン";
